@@ -1,0 +1,4 @@
+# Enchanter Island
+Enchanter Island is a small island located between the Veil and the Dragon's Tail. One of the world's most alien forests covers the island. Trees here grow tall and twisted, with leaves that turn red, yellow, green, blue, or white, and some have vines and lianas that droop to the ground. Although clear from the shore, a glowing mist shrouds the entire forest. Standing inside the forest, one would be able to hear the distant jingling of bells and the faint glimmering of magic.
+
+The island is rumoured to have driven returning adventurers mad. Stories range from milder versions, such as people being scared after returning, to weirder ones, such as people viewing it as some sort of irresistible heaven and doing anything to get themselves back onto the island. However, not many adventurers return; for those unfortunate souls, they are said to be completely consumed by the island.
