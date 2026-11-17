@@ -12,6 +12,8 @@
 
 The Kingdom of Norgorvalla is a major kingdom in the northern lands of the known world. Although powerful, the city of Hvatingvarde is the only major city in the kingdom; other settlements are semi-independent villages and townlets scattered across the lands.
 
+Unlike other civilisations, Norgorvallian villages have remained traditional longhouses as the norm for buildings, while torches, lanterns, and candles remain the norm for lighting.
+
 ## Locations
 ### Fortified cities
 - Hvatingvarde (capital)
