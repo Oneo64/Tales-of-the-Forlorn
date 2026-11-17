@@ -15,3 +15,6 @@ The Kingdom of Fjellbard is a minor kingdom.
 ## Locations
 ### Castles
 - Fjellbard (capital)
+
+### Towns
+- [Mørkhjem](../Morkhjem.md)
