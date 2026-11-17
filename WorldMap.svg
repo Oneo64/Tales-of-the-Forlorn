@@ -9,6 +9,9 @@
    id="svg1"
    inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
    sodipodi:docname="WorldMap.svg"
+   inkscape:export-filename="WorldMap.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,15 +27,16 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
      inkscape:zoom="0.5"
-     inkscape:cx="823"
-     inkscape:cy="486"
+     inkscape:cx="1421"
+     inkscape:cy="618"
      inkscape:window-width="1470"
      inkscape:window-height="923"
      inkscape:window-x="0"
      inkscape:window-y="33"
      inkscape:window-maximized="0"
      inkscape:current-layer="layer5"
-     showguides="false" />
+     showguides="false"
+     inkscape:export-bgcolor="#668cffff" />
   <defs
      id="defs1">
     <inkscape:path-effect

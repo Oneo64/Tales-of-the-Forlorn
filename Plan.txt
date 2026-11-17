@@ -1,0 +1,20 @@
+Languages:
+	Ardenian (Basically fantasy Greek.)
+	Centrumian (Basically fantasy Latin.)
+	Banodic (Basically whatever dwarvish languages are supposed to sound like.)
+	Helgardian (Basically Norgorvallian with elven influence.)
+	Northbardic (Will use Norgorvallian.)
+	Redmannish (Basically Early Middle English. But for my own sanity's sake, I will just use modern English, with caution for which roots are of Germanic origin and which roots aren't. As for the naming, I will put a native translation somewhere so that the language isn't completely forgotten.)
+	Taribian (Basically fantasy Arabic.)
+	Vleskyenic (Slavic-esque language.)
+	Zansian (Slavic-esque language with elven influence.)
+
+Magics:
+	Clairvoyance (Basically prediction and guidance magic. Prevalent in Centruma, Bellaria, Grandore, Mŷldassil, Zansia, and Ranûdel.)
+	Galder (Basically runic text or singular sigils that produce a magical effect. Prevalent in Norgorvalla, Fjellbard, Helgard, Banod, Glomdor, Mornesvid, and Slorm.)
+	Sorcery (Basically a weak version of fantasy magic, but requires components/materials. Prevalent in Taribia, Ardena, Shak-Aivan, Dagad, and Neshozia.)
+	Wizardry (Basically a weak version of fantasy magic, but must be cast while holding an orb. The most widespread type of magic. Prevalent in Redfall, Arnland, Vleskyena, Zansia, Norgorvalla, Fjellbard, Centruma, Bellaria, Grandore, Mŷldassil, and Ranûdel.)
+
+Places:
+	Old Man Island (rumours of tribalistic people living there who all uncannily look like decrepit old people, but somehow able to move like normal people)
+	Wandmane (secular castle where the lord and his family all practise magic)
