@@ -31,7 +31,7 @@ Galder is the art of using runic text to grant magical abilities to objects and 
 
 #### Prevalence
 - **Human kingdoms:** Fjellbard, Helgard, Norgorvalla
-- **Dwarven kingdoms:** Banod, Glomdor, Mornesvid, Slorm
+- **Dwarven kingdoms:** Banod, Glomdor, Mornesvid
 
 ## Sorcery
 Sorcery is the art of turning plain materials into magical effects. In many institutions, sorcery is most commonly taught using powder as the standard. In fact, powder is so common for sorcerers because it brings out the best results. To produce an effect, the mage must hold the material in their hand, make a particular gesture with their other hand, and speak an incantation.
