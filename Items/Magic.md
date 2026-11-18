@@ -55,6 +55,9 @@ Spells such as *firebolt* come out of the caster's finger and fly in its directi
 - **Weak:**
   - Firebolt
   - Missile
+- **Strong:**
+  - Detect Thoughts
+  - Lightning Bolt
 
 ## Wizardry
 Wizardry is the art of using an orb to channel one's power. To produce an effect, the mage must hold the orb in their hand, make a particular gesture with their other hand, and speak an incantation. Without their orb, the mage is powerless.
@@ -71,14 +74,18 @@ Spells such as *firebolt* come out of the actual orb and fly in the direction of
 - **Weak:**
   - Firebolt
   - Missile
+- **Strong:**
+  - Detect Thoughts
+  - Lightning Bolt
 
 ## List of Spells
 #### Weak
 - **Detect Emotions:** By looking at the target, the caster gains knowledge of their current emotion.
 - **Detect Weather:** The caster gains knowledge of the weather's condition for the next week.
-- **Guidance:** The caster gains knowledge of the shortest path towards an item or a place that they have seen, touched, and experienced. If they seek a person, they must know several things about that person. Also, this spell doesn't work if the thing doesn't exist or is extremely far away.
 - **Firebolt:** Conjures a small bolt of fire that streaks towards the target.
+- **Guidance:** The caster gains knowledge of the shortest path towards an item or a place that they have seen, touched, and experienced. If they seek a person, they must know several things about that person. Also, this spell doesn't work if the thing doesn't exist or is extremely far away.
 - **Missile:** Conjures a glowing mote of pure magical force. The caster can change its direction mid-flight, allowing it to hit targets behind walls and adjust its course if the target tries to dodge. At the highest level, this spell can conjure up to five motes in one cast.
 
 #### Strong
 - **Detect Thoughts:** By looking at the target, the caster gains knowledge of their current thoughts and intentions.
+- **Lightning Bolt:** Conjures a bolt of lightning that arcs towards the target, instantly striking whatever the caster was directing it towards. This spell is weak against padded armour such as gambesons, but strong against metal armour such as hauberks. If there is metal near the intended target, there is a chance for the bolt to strike that instead, leaving the intended target unharmed.
