@@ -17,4 +17,4 @@ Redmannish architecture follows a very conventional philosophy (comparable to We
 
 ## Locations
 ### Fortified cities
-- Crafthall City (Cræfthæll) (capital)
+- [Crafthall City (capital)](../CrafthallCity.md)
