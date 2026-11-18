@@ -17,10 +17,12 @@ Clairvoyance is the art of foresight and guidance through the use of orbs. To pr
 Clairvoyance orbs are most often made of wood, but richer mages may have one made of a gemstone. Some may have their orb on a staff or wand for ease. However, an ordinary orb is not enough to be worthy of a mage; it has no power. For one to become suitable, it must be specially crafted by soaking it in a special mixture for days.
 
 #### Spells
-- **Emotions (weak):** By looking at the target, the caster gains knowledge of their current emotion.
-- **Guidance (weak):** The caster gains knowledge of the shortest path towards an item or a place that they have seen, touched, and experienced. If they seek a person, they must know several things about that person. Also, this spell doesn't work if the thing doesn't exist or is extremely far away.
-- **Weather (weak):** The caster gains knowledge of the weather's condition for the next week.
-- **Thoughts (strong):** By looking at the target, the caster gains knowledge of their current thoughts and intentions.
+- **Weak:**
+  - Detect Emotions
+  - Detect Weather
+  - Guidance
+- **Strong:**
+  - Detect Thoughts
 
 #### Prevalence
 - **Human kingdoms:** Bellaria, Centruma, Grandore
@@ -67,3 +69,12 @@ Spells such as *firebolt* come out of the actual orb and fly in the direction of
 #### Prevalence
 - **Human kingdoms:** Arnland, Bellaria, Centruma, Fjellbard, Grandore, Norgorvalla, Redfall, Vleskyena
 - **Elven kingdoms:** Mÿldassïe, Ranûdel, Zansia
+
+## List of Spells
+#### Weak
+- **Detect Emotions (weak):** By looking at the target, the caster gains knowledge of their current emotion.
+- **Detect Weather (weak):** The caster gains knowledge of the weather's condition for the next week.
+- **Guidance (weak):** The caster gains knowledge of the shortest path towards an item or a place that they have seen, touched, and experienced. If they seek a person, they must know several things about that person. Also, this spell doesn't work if the thing doesn't exist or is extremely far away.
+
+#### Strong
+- **Detect Thoughts (strong):** By looking at the target, the caster gains knowledge of their current thoughts and intentions.
