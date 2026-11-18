@@ -11,7 +11,7 @@ Example of Banodic: "Hei, dormutuul-niz ar Neo ok niz hama rlaki varnaliigsie."
 Basically fantasy Latin (needs conlang).
 
 ## Helgardian
-Basically Northbardic with elven influence.
+Basically Northbardic with elven influence (needs conlang).
 
 ## Mÿldassïan
 Mÿldassïan is spoken in Mÿldassïe. It's basically the same thing as Esrel.
