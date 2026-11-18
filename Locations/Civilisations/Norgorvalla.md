@@ -17,3 +17,6 @@ Unlike other civilisations, Norgorvallian villages have remained traditional lon
 ## Locations
 ### Fortified cities
 - Hvatingvarde (capital)
+
+### Villages
+- [Dåkvide](../Dakvide.md)
