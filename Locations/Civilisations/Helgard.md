@@ -10,8 +10,10 @@
 	<tr> <td>Language</td> <td>Helgardian</td> </tr>
 </tbody></table>
 
-The Kingdom of Helgard is a minor kingdom.
+The Kingdom of Helgard is a minor kingdom north of the known world. Unfortunately, because of their bad location, the kingdom isn't as big as the settlers had hoped it would be. Helgard, the king's fortress, sits dramatically atop a stony hill, overlooking a desolate half-tundra with its only five villages barely in sight.
+
+Travellers will find no inn here, but only the sole tavern in the outer village of Helgard Keep.
 
 ## Locations
 ### Castles
-- Helgard (capital)
+- [Helgard Keep (capital)](../HelgardKeep.md)
