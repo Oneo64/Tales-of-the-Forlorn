@@ -6,6 +6,11 @@ Using such power drains one's mental energy, causing those who use it excessivel
 
 Weak spells mean that casters can use them many times a day on average, while strong spells mean that casters can use them only one or twice a day on average. Of course, mages with more experience can withstand a greater degree of this drainage.
 
+## Arcane poisoning
+Arcane poisoning is a condition that happens when someone has a prolonged exposure to magic. Symptoms include nausea, insomnia, and hallucinations. Most conditions only last a week or two.
+
+Severe arcane poisoning happens when the exposure is so intense that it begins to cause damage and mutations to the body and can lead to death.
+
 ## Clairvoyance
 Clairvoyance is the art of foresight and guidance through the use of orbs. To produce an effect, the mage must hold one or two hands over the orb, palms facing it, and chant the required speech.
 
