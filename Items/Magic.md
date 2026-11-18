@@ -17,6 +17,10 @@ Clairvoyance orbs are most often made of wood, but richer mages may have one mad
 - **Weather (weak):** The caster gains knowledge of the weather's condition for the next week.
 - **Thoughts (strong):** By looking at the target, the caster gains knowledge of their current thoughts and intentions.
 
+#### Prevalence
+- **Human kingdoms:** Bellaria, Centruma, Grandore
+- **Elven kingdoms:** Mÿldassïe, Ranûdel, Zansia
+
 ## Galder
 Galder is the art of using runic text to grant magical abilities to objects and surfaces. Despite seeming like a simple art, galder must be activated through a short ritual that only mages can perform.
 
@@ -25,10 +29,18 @@ Galder is the art of using runic text to grant magical abilities to objects and 
 - **Demonward (strong):** The mage must draw a large, intricate symbol on a surface. Whenever a demon or unholy creature enters its vicinity, they are compelled to cower and hide, for the symbol emits a blinding light only they can see.
 - **Enchant blade (strong):** The caster must also know wizardry for this spell. By inscribing the incantation of the desired spell onto the blade, it can be activated by another wizard who wields the weapon, and the blade becomes the "orb" of the caster. This spell can also be rigged to be indefinitely active, but requires additional knowledge and effort.
 
+#### Prevalence
+- **Human kingdoms:** Fjellbard, Helgard, Norgorvalla
+- **Dwarven kingdoms:** Banod, Glomdor, Mornesvid, Slorm
+
 ## Sorcery
 Sorcery is the art of turning plain materials into magical effects. In many institutions, sorcery is most commonly taught using powder as the standard. In fact, powder is so common for sorcerers because it brings out the best results. To produce an effect, the mage must hold the material in their hand, make a particular gesture with their other hand, and speak an incantation.
 
 The powder that sorcerers use is mostly a combination of herbs, but not the medicinal kind. Some of the most common combinations include fungi such as lichen, moss, rust, and mushrooms, and weird things such as tree bark, volcanic ash, and even coral.
+
+#### Prevalence
+- **Human kingdoms:** Ardena, Dagad, Shak-Aivan, Taribia
+- **Orcish kingdoms:** Neshozia
 
 #### Spells
 - **Firebolt (weak):** A small bolt of fire springs out of the caster's finger and shoots towards wherever they are pointing. Although dangerous to unarmoured foes, a sturdy wooden shield can absorb its blast.
@@ -40,3 +52,7 @@ Wizardry orbs are most often made of wood, but richer mages may have one made of
 
 #### Spells
 - **Firebolt (weak):** A small bolt of fire springs out of the orb in the direction of the caster's eye. Although dangerous to unarmoured foes, a sturdy wooden shield can absorb its blast.
+
+#### Prevalence
+- **Human kingdoms:** Arnland, Bellaria, Centruma, Fjellbard, Grandore, Norgorvalla, Redfall, Vleskyena
+- **Elven kingdoms:** Mÿldassïe, Ranûdel, Zansia
