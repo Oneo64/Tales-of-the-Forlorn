@@ -9,6 +9,8 @@ Weak spells mean that casters can use them many times a day on average, while st
 ## Clairvoyance
 Clairvoyance is the art of foresight and guidance through the use of orbs. To produce an effect, the mage must hold one or two hands over the orb, palms facing it, and chant the required speech.
 
+Clairvoyance orbs are most often made of wood, but richer mages may have one made of a gemstone. Some may have their orb on a staff or wand for ease. However, an ordinary orb is not enough to be worthy of a mage; it has no power. For one to become suitable, it must be specially crafted by soaking it in a special mixture for days.
+
 #### Spells
 - **Emotions (weak):** By looking at the target, the caster gains knowledge of their current emotion.
 - **Guidance (weak):** The caster gains knowledge of the shortest path towards an item or a place that they have seen, touched, and experienced. If they seek a person, they must know several things about that person. Also, this spell doesn't work if the thing doesn't exist or is extremely far away.
@@ -34,7 +36,7 @@ The powder that sorcerers use is mostly a combination of herbs, but not the medi
 ## Wizardry
 Wizardry is the art of using an orb to channel one's power. To produce an effect, the mage must hold the orb in their hand, make a particular gesture with their other hand, and speak an incantation. Without their orb, the mage is powerless.
 
-Orbs are most often made of wood, but richer mages may have one made of a gemstone. Some may have their orb on a staff or wand for ease. However, an ordinary orb is not enough to be worthy of a mage; it has no power. For one to become suitable, it must be specially crafted by soaking it in a special mixture for days.
+Wizardry orbs are most often made of wood, but richer mages may have one made of a gemstone. Some may have their orb on a staff or wand for ease. However, an ordinary orb is not enough to be worthy of a mage; it has no power. For one to become suitable, it must be specially crafted by soaking it in a special mixture for days.
 
 #### Spells
 - **Firebolt (weak):** A small bolt of fire springs out of the orb in the direction of the caster's eye. Although dangerous to unarmoured foes, a sturdy wooden shield can absorb its blast.
