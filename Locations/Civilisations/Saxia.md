@@ -11,3 +11,5 @@
 </tbody></table>
 
 Saxia is a minor lordship and fortress, controlled by the sole house of Saxia. Its population is no more than five hundred, as the entire region is just the fort and the outside village.
+
+The fortress of Saxia is built on a small hill surrounded by a bleak forest. The outside village is the only farming source for the entire lordship, making it very dear to the people who live there. Because of how small this place is, the nobles are actually warmer and more generous with the lower class. As usual, the people are still wary of outsiders.
