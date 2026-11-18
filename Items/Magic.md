@@ -38,20 +38,26 @@ Sorcery is the art of turning plain materials into magical effects. In many inst
 
 The powder that sorcerers use is mostly a combination of herbs, but not the medicinal kind. Some of the most common combinations include fungi such as lichen, moss, rust, and mushrooms, and weird things such as tree bark, volcanic ash, and even coral.
 
+Spells such as *firebolt* come out of the caster's finger and fly in its direction.
+
+#### Spells
+- **Firebolt (weak):** Conjures a small bolt of fire that streaks towards the target.
+- **Missile (weak):** Conjures a glowing mote of pure magical force. The caster can change its direction mid-flight, allowing it to hit targets behind walls and adjust its course if the target tries to dodge. At the highest level, this spell can conjure up to five motes in one cast.
+
 #### Prevalence
 - **Human kingdoms:** Ardena, Dagad, Shak-Aivan, Taribia
 - **Orcish kingdoms:** Neshozia
-
-#### Spells
-- **Firebolt (weak):** A small bolt of fire springs out of the caster's finger and shoots towards wherever they are pointing. Although dangerous to unarmoured foes, a sturdy wooden shield can absorb its blast.
 
 ## Wizardry
 Wizardry is the art of using an orb to channel one's power. To produce an effect, the mage must hold the orb in their hand, make a particular gesture with their other hand, and speak an incantation. Without their orb, the mage is powerless.
 
 Wizardry orbs are most often made of wood, but richer mages may have one made of a gemstone. Some may have their orb on a staff or wand for ease. However, an ordinary orb is not enough to be worthy of a mage; it has no power. For one to become suitable, it must be specially crafted by soaking it in a special mixture for days.
 
+Spells such as *firebolt* come out of the actual orb and fly in the direction of the caster's gaze.
+
 #### Spells
-- **Firebolt (weak):** A small bolt of fire springs out of the orb in the direction of the caster's eye. Although dangerous to unarmoured foes, a sturdy wooden shield can absorb its blast.
+- **Firebolt (weak):** Conjures a small bolt of fire that streaks towards the target.
+- **Missile (weak):** Conjures a glowing mote of pure magical force. The caster can change its direction mid-flight, allowing it to hit targets behind walls and adjust its course if the target tries to dodge. At the highest level, this spell can conjure up to five motes in one cast.
 
 #### Prevalence
 - **Human kingdoms:** Arnland, Bellaria, Centruma, Fjellbard, Grandore, Norgorvalla, Redfall, Vleskyena
