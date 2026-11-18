@@ -22,4 +22,4 @@ Mÿldassïan buildings are often made of wood, its walls with a stone base. Thei
 ### Towns
 - Darlüind
 - Ilkindel
-- Minbaslüind
+- [Minbaslüind](../Minbasluind.md)
