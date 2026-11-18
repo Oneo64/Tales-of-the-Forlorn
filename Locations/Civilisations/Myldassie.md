@@ -17,7 +17,7 @@ Mÿldassïan buildings are often made of wood, its walls with a stone base. Thei
 
 ## Locations
 ### Castles
-- Naitea
+- [Naitea](../Naitea.md)
 
 ### Towns
 - Darlüind
