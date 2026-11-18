@@ -10,4 +10,11 @@
 	<tr> <td>Language</td> <td>Zansian</td> </tr>
 </tbody></table>
 
-The Kingdom of Zansia is a fortified city-kingdom in the northernmost lands of the known world. Although its settlers originally came from Ranûdel, the Zansian culture has been so shaped by Vleskyenic culture that it has lost most of its original values.
+The Kingdom of Zansia is a fortified city-kingdom in the northernmost lands of the known world. Like other kingdoms in the crown of the world, the landscape thrives in a permanent winter with snow that never seems to melt. The sky here is usually cloudy, casting a shadow across the entire kingdom.
+
+Although its settlers originally came from Ranûdel, the Zansian culture has been so shaped by Vleskyenic culture that it has lost most of its original values.
+
+Surrounding the city is a stone wall with towers to watch over the surrounding snowfield and distant forest. To light up the city, some people put a candle or a lantern in front of their doors, called a kvardvi (it literally means doorlight). Even though it is a city, most of the buildings inside are actually residential since the place is far from being a center of trade.
+
+## Architecture
+[*See: Vleskyena*](Vleskyena.md)
