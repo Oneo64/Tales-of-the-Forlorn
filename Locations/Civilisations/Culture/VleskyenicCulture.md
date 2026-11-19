@@ -1,5 +1,5 @@
 # Vleskyenic culture
-Vleskyenic culture is somewhat similar to the real-world Slavic culture.
+Vleskyenic culture is somewhat similar to the real-world Slavic culture. Some may associate it with frozen rivers and "spiky" roofs.
 
 ## Architecture
 Although architecture in Vleskyenic Culture has remained traditional, it has taken a different turn from the norm.
