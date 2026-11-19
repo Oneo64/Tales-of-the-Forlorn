@@ -12,9 +12,6 @@
 
 The Kingdom of Arnland is a minor kingdom.
 
-## Architecture
-[*See: Redfall*](Redfall.md)
-
 ## Locations
 ### Castles
-- Hearthstead Castle (Heorthstede) (capital)
+- [Hearthstead Castle (capital)](../HearthsteadCastle.md)
